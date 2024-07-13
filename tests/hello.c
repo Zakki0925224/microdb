@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include "../microdb/microdb.h"
 
 int main(void)
 {
-    printf("Hello world!\n");
+    hello();
     return 0;
 }
