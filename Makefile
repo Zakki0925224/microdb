@@ -1,4 +1,4 @@
-SRC_FILES := ./tests/hello.c
+SRC_FILES := ./tests/input.c
 OBJ_FILES := $(SRC_FILES:.c=.o)
 OUT_FILE := test
 

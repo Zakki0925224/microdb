@@ -1,4 +1,4 @@
-SRC_FILES := hello.c
+SRC_FILES := hello.c stream.c
 OBJ_FILES := $(SRC_FILES:.c=.o)
 LIB_FILE := libmicrodb.a
 
